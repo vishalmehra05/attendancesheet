@@ -1,1 +1,18 @@
-
+{
+  "branch": "BSC-M(P)",
+  "year": 3,
+  "students": [
+    {
+      "id": "PAC9MP3-28",
+      "name": "tARUN KUMAR JUNEJA"
+    },
+    {
+      "id": "PAC9MP3-4",
+      "name": "Tushar kumar meena"
+    },
+    {
+      "id": "PAC9MP3-29",
+      "name": "tanya juneja"
+    }
+  ]
+}
