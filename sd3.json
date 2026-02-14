@@ -13,3 +13,61 @@
   ]
 }
 
+
+
+{
+  "branch": "SD",
+  "year": 3,
+
+  "subjects": [
+    {
+      "subjectCode": "SD301",
+      "subjectName": "Mobile App Development",
+      "units": [
+        { "unitId": 1, "unitName": "Flutter Introduction" },
+        { "unitId": 2, "unitName": "Widgets & Layouts" },
+        { "unitId": 3, "unitName": "State Management" },
+        { "unitId": 4, "unitName": "API Integration" },
+        { "unitId": 5, "unitName": "Firebase Integration" }
+      ]
+    },
+    {
+      "subjectCode": "SD302",
+      "subjectName": "Cloud Computing",
+      "units": [
+        { "unitId": 1, "unitName": "Cloud Basics" },
+        { "unitId": 2, "unitName": "AWS Services" },
+        { "unitId": 3, "unitName": "Deployment Models" },
+        { "unitId": 4, "unitName": "CI/CD Pipelines" }
+      ]
+    },
+    {
+      "subjectCode": "SD303",
+      "subjectName": "Artificial Intelligence",
+      "units": [
+        { "unitId": 1, "unitName": "Introduction to AI" },
+        { "unitId": 2, "unitName": "Machine Learning Basics" },
+        { "unitId": 3, "unitName": "Neural Networks" },
+        { "unitId": 4, "unitName": "Deep Learning" },
+        { "unitId": 5, "unitName": "AI Applications" }
+      ]
+    },
+    {
+      "subjectCode": "SD304",
+      "subjectName": "Cyber Security",
+      "units": [
+        { "unitId": 1, "unitName": "Network Security" },
+        { "unitId": 2, "unitName": "Cryptography" },
+        { "unitId": 3, "unitName": "Ethical Hacking" },
+        { "unitId": 4, "unitName": "Web Security" }
+      ]
+    }
+  ],
+
+  "students": [
+    { "id": "PAC7SD3-01", "name": "Vishal Mehra" },
+    { "id": "PAC7SD3-02", "name": "Rajapradeep" },
+
+  ]
+}
+
